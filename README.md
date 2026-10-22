@@ -93,7 +93,7 @@ Transfer learning matters most when labelled data is scarce, and the gap closes 
 .
 ├── CNN_Project_CIFAR10.ipynb    # full notebook with code, outputs and written analysis
 ├── CNN_Project_CIFAR10.pdf      # PDF export of the notebook
-└── README.md
+
 ```
 
 ## ▶️ How to run
